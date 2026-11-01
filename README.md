@@ -50,13 +50,13 @@ Practiced configuring assignment requirements and direct user assignment.
 
 Tools and Concepts:
 
-Microsoft Entra admin center.
-Microsoft 365 test tenant.
-Identity lifecycle management.
-RBAC and least privilege.
-MFA and authentication.
-Audit logs and sign-in logs.
-Enterprise application access.
+Microsoft Entra admin center,
+Microsoft 365 test tenant,
+Identity lifecycle management,
+RBAC and least privilege,
+MFA and authentication,
+Audit logs and sign-in logs,
+Enterprise application access,
 
 Scope and Limitations:
 
